@@ -1,2 +1,2 @@
-# DNRRS
-DragonRage Showdown Reporting Spreadsheet
+# DNRSR
+DragonRage Showdown Reporting
